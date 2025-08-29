@@ -1,0 +1,6 @@
+persist.sys.radio.global_regionlock.allcheck=true
+ro.oplus.radio.5ge_type=2
+ro.vendor.oplus.radio.esim.feature=2
+setupwizard.feature.esim_enabled=true
+sys.oplus.nw.optimize=1
+ro.facebook.partnerid=

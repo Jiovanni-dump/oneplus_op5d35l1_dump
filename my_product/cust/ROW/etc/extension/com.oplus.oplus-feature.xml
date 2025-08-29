@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oplus-config>
+	<unavailable-oplus-feature name="oplus.software.radio.esim_support"/>
+	<oplus-feature name="oplus.software.radio.nr_bwp_rus_control"/>
+	<oplus-feature name="oplus.software.radio.nr_nrca_rus_control"/>
+</oplus-config>
+<!-- Timestamp 2025-04-16T16:42:58 #664502 -->

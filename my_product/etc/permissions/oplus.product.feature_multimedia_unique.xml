@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<oplus-config>
+	<oplus-feature name="oplus.software.audio.alert_slider"/>
+	<oplus-feature name="oplus.software.audio.hearing_health_support"/>
+	<oplus-feature name="oplus.software.audio.spl_limit_support"/>
+	<oplus-feature name="oplus.software.audio.haptic_channel_support"/>
+	<oplus-feature name="oplus.software.audio.karaoke_v2.support"/>
+	<oplus-feature name="oplus.software.audio.karaoke_v2.pitchchange"/>
+	<oplus-feature name="oplus.software.audio.route_strategy"/>
+	<oplus-feature name="oplus.software.effect.surround_effect_support"/>
+	<oplus-feature name="oplus.software.audio.dualspk_support"/>
+	<oplus-feature name="oplus.software.display.multi_device_decrease_refresh_rate"/>
+	<oplus-feature name="oplus.software.display.dynamic_fps_switch"/>
+	<oplus-feature name="oplus.software.display.refreshrate_default_smart"/>
+	<oplus-feature name="oplus.software.display.adfr"/>
+	<oplus-feature name="oplus.software.display.game_color_plus_v2_support"/>
+	<oplus-feature name="oplus.software.video.sr_support"/>
+	<oplus-feature name="oplus.software.video.osie_support"/>
+	<oplus-feature name="oplus.software.video.surround_record_support"/>
+	<oplus-feature name="oplus.software.display.oha_support"/>
+	<oplus-feature name="oplus.software.display.resolution_switch_support"/>
+	<oplus-feature name="oplus.software.display.wm_size_resolution_switch_support"/>
+	<oplus-feature name="oplus.software.app_resolution_switch"/>
+	<oplus-feature name="oplus.software.display.resolution_switch_disableauto_support"/>
+	<oplus-feature name="oplus.software.display.sharpness_switch"/>
+	<oplus-feature name="oplus.software.bluetooth_volume_sync"/>
+	<oplus-feature name="oplus.software.multi_app.volume.adjust.support"/>
+</oplus-config>

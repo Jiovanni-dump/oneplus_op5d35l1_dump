@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LegalInfos version="1.0">
+    <MODEL_CPH2585>
+        <elabel factory_no="IN-04" region="India"/>
+    </MODEL_CPH2585>
+
+    <MODEL_CPH2609>
+        <CE />
+        <MAS />
+        <KSA number="2023-2626" new_style="true"/>
+        <MEXICO mex_laboratory="ANCE" />
+    </MODEL_CPH2609>
+	
+	<MODEL_CPH2611>
+        <MEX fcc_id_number="2ABZ2-AA560" canada_ic_number="12739A-AA560"/>
+    </MODEL_CPH2611>
+</LegalInfos>

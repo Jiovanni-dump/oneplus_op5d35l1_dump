@@ -1,0 +1,3 @@
+persist.sys.radio.global_regionlock.allcheck=true
+sys.oplus.nw.optimize=1
+persist.sys.oplus.region=IN

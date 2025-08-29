@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oplus-config>
+	<oplus-feature name="oplus.software.radio.sido_screen_on_no_45g_opt"/>
+	<oplus-feature name="oplus.software.radio.dds_switch"/>
+	<oplus-feature name="oplus.software.radio.apn_recovery_for_export"/>
+	<oplus-feature name="oplus.software.radio.apn_recovery_for_export"/>
+	<oplus-feature name="oplus.software.radio.apn_recovery"/>
+	<unavailable-oplus-feature name="oplus.software.radio.esim_support"/>
+	<oplus-feature name="oplus.software.radio.signal_recovery_enabled"/>
+	<oplus-feature name="oplus.software.radio.sido_screen_on_no_service_opt"/>
+	<oplus-feature name="oplus.software.radio.virtualmodem_support"/>
+	<oplus-feature name="oplus.software.radio.sido_dual_sim_coop_no_service_opt"/>
+	<oplus-feature name="oplus.software.radio.sido_dual_sim_coop_no4g_no5g_opt"/>
+	<oplus-feature name="oplus.software.radio.ul_priority_policy_one_vs_one"/>
+</oplus-config>
+<!-- Timestamp 2024-08-10T20:03:06 #185203 -->
