@@ -1,0 +1,14 @@
+# qssi-user 15 AP3A.240617.008 1746549503298 release-keys
+- manufacturer: oneplus
+- platform: kalama
+- codename: OP5D35L1
+- flavor: qssi-user
+- release: 15
+- id: TP1A.220905.001
+- incremental: U.R4T3.1db448e-12cab-512
+- tags: release-keys
+- fingerprint: OnePlus/CPH2585IN/OP5D35L1:15/TP1A.220905.001/U.R4T3.1db448e-12cab-512:user/release-keys
+- is_ab: true
+- brand: OnePlus
+- branch: qssi-user-15-AP3A.240617.008-1746549503298-release-keys
+- repo: oneplus_op5d35l1_dump
