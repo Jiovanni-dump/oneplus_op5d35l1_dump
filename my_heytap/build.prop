@@ -1,0 +1,5 @@
+# build prop start
+ro.oplus.image.my_heytap.type=export
+ro.oplus.image.my_heytap.date=2025-07-22 01:07:29
+ro.oplus.image.my_heytap.date.utc=1753117649
+ro.oplus.image.my_heytap.version=0.0.269.0.2025072201000232305723.85ac15ca
