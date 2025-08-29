@@ -1,0 +1,6 @@
+<oplus-config>
+    <!-- ZhangYelin @GAMEECO.COOLEFFECT.EDR, 2023/07/31, Add for edr feature start -->
+    <oplus-feature name="oplus.software.display.game.hdr3.0_enable"/>
+    <!-- end -->
+</oplus-config>
+

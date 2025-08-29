@@ -1,0 +1,36 @@
+{
+    "version": 2024071801,
+    "feature": {
+        "colorx": {
+            "coolex_white_list": [
+                "com.tencent.ig"
+            ],
+            "edr3_white_list": [
+                "com.miHoYo.GenshinImpact",
+                "com.riotgames.league.wildrift",
+                "com.tencent.ig",
+                "com.mobile.legends",
+                "com.mobile.legends:UnityKillsMe",
+                "com.activision.callofduty.shooter"
+            ],
+            "rus_file": {
+                "sys_coolex_gamedata_yuanshen_hdr": [
+                    "com.miHoYo.GenshinImpact"
+                ],
+                "sys_coolex_gamedata_mobilelegends_hdr": [
+                    "com.mobile.legends",
+                    "com.mobile.legends:UnityKillsMe"
+                ],
+                "sys_coolex_gamedata_wildrift_hdr": [
+                    "com.riotgames.league.wildrift"
+                ],
+                "sys_coolex_gamedata_callofduty_hdr": [
+                    "com.activision.callofduty.shooter"
+                ],
+                "sys_coolex_gamedata_ig_hdr": [
+                    "com.tencent.ig"
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<permissions>
+	<feature name="oplus.software.vibration_threestage_key"/>
+	<feature name="android.hardware.sensor.light"/>
+	<feature name="com.google.android.feature.AER_OPTIMIZED"/>
+</permissions>
+<!-- Timestamp 2023-11-14T15:16:10 #65904 -->
