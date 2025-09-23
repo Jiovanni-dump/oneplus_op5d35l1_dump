@@ -1,0 +1,13 @@
+<filter-conf>
+	<version>20250210</version>
+	<enable>true</enable>
+	<isOpen>1</isOpen>
+	<filter-name>sys_dynamic_frame_config</filter-name>
+	<thermalLimit>45</thermalLimit>
+	<common>
+		<!--<item type="0" enable="true" targetFramerate="120" velocityFramerate="true" enableEndLowRate="true" enableBreakAppRate60="true" enableBreakAppRate90="true" isWidespreadAnim="true" /> 默认调试动画-->
+        <item type="10001" enable="true" targetFramerate="120" velocityFramerate="true" enableEndLowRate="false" enableBreakAppRate60="false" enableBreakAppRate90="false" isWidespreadAnim="false"  /> <!-- OverScroller/OplusSpringOverScroller在屏滑动（列表滑动、短视频场景滑动） -->
+		<item type="10003" enable="true" targetFramerate="120" velocityFramerate="true" enableEndLowRate="true" enableBreakAppRate60="false" enableBreakAppRate90="false" isWidespreadAnim="false"  /> <!-- OverScroller/OplusSpringOverScroller fling（离屏fling，一般用于列表滑动场景 -->
+        <item type="10101" enable="true" targetFramerate="120" velocityFramerate="true" enableEndLowRate="false" enableBreakAppRate60="false" enableBreakAppRate90="false" isWidespreadAnim="true" /> <!--COUI面板动画--> 
+	</common>
+</filter-conf>

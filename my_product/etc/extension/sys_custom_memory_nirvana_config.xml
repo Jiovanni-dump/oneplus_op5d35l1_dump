@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<filter-conf>
+    <version>2024081601</version>
+    <filter-name>sys_custom_memory_nirvana_config</filter-name>
+
+    <config name="baseConfig" type="bundle">
+        <item name="NirvanaSupportMinRam" type="int" value="12"/>
+        <item name="CheckSupportProduct" type="bool" value="false"/>
+    </config>
+
+    <config name="memoryReleasePolicyConfig" type="bundle">
+        <item name="MemcgBgCompressEnabled" type="bool" value="false"/>
+    </config>
+
+    <config name="featureControlConfig" type="bundle">
+        <item name="ControlPreload" type="bool" value="false"/>
+    </config>
+</filter-conf>
