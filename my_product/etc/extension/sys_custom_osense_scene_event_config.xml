@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config name="scene_event">
+    <filter-conf>
+        <version>2026012821</version>
+        <filter-name>sys_custom_osense_scene_event_config</filter-name>
+    </filter-conf>
+    <!-- CameraUi 线程 begin 退出后台时的临时ux,会在app内部生命周期结束后进行取消-->
+    <event id="6100" name="SYSTEM_CAMERA_APP_RUNNING" maxWorkDurationMs="-1" source_caller="system_app">
+        <key-thread name="UIThread" owner="self" sched_policy="ux" priority="HEAVY" />
+        <key-thread name="RenderThread" owner="self" sched_policy="ux" priority="HEAVY" />
+    </event>
+</config>

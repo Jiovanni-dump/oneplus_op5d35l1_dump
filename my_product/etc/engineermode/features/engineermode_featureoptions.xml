@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<features>
+    <!-- The PCBA interface is displayed by default when booting, so you need to define this property to display off -->
+    <feature name="com.oplus.eng.pcba.bootshow" value="false" />
+    <feature name="com.oplus.eng.sar.head" value="1.187" />
+    <feature name="com.oplus.eng.sar.body" value="0.824" />
+</features>

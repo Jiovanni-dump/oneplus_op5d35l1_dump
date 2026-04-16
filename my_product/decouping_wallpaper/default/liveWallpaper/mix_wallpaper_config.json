@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "wallpapers": [
+    {
+      "liveName": "aston_1.mp4",
+      "staticName": "product_wallpaper1.jpg"
+    },
+    {
+      "liveName": "aston_2.mp4",
+      "staticName": "product_wallpaper2.jpg"
+    },
+    {
+      "liveName": "aston_3.mp4",
+      "staticName": "product_wallpaper3.jpg"
+    }
+  ]
+}

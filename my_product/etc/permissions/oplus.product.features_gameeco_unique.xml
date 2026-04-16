@@ -1,0 +1,17 @@
+<oplus-config>
+    <!-- Xueliang @GAMEECO.COOLEFFECT.PM, 2024/02/28, Add for play mode feature start -->
+    <oplus-feature name="oplus.software.game.playmode_enable"/>
+    <!-- end -->
+    <!-- ZhangYelin @GAMEECO.COOLEFFECT.EDR, 2023/07/31, Add for edr feature start -->
+    <oplus-feature name="oplus.software.display.game.hdr3.0_enable"/>
+    <!-- end -->
+    <!-- ZhangYelin @GAMEECO.COOLEFFECT.GP, 2025/02/12, Add for gp feature start -->
+    <oplus-feature name="oplus.software.support_gp.oneplus_colorx"/>
+    <!-- ZhangYelin @GAMEECO.COOLEFFECT.VULKAN, 2025/04/28, Add for vulkan feature start -->
+    <oplus-feature name="oplus.software.display.game.support_vulkan"/>
+    <!-- end -->
+    <!-- WangYuanchun@GAMEECO, 2025/8/26, Add for coolex feature start-->
+    <oplus-feature name="oplus.software.display.game.support_vulkan"/>
+    <!-- end -->
+</oplus-config>
+
